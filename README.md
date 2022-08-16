@@ -1,3 +1,8 @@
+# Learning_react
+
+Working through a react tutorial
+https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1007s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
